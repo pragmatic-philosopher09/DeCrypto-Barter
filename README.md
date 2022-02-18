@@ -17,4 +17,4 @@
 - Navigate to the client directory.
  -Follow the steps enlisted in this link for the setup: https://tailwindcss.com/docs/installation
 
-Stay Tuned For More!
+Stay Tuned For More! Work under progress!
